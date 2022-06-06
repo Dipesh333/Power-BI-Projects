@@ -16,3 +16,4 @@ Stakeholders want the following insights in the dashboard:
 ![Sales Analysis](https://user-images.githubusercontent.com/76425286/172103629-0dd93f48-00b1-41e0-8fe1-9a342c0a946b.png)
 ![Customer](https://user-images.githubusercontent.com/76425286/172103662-6769d33e-847f-4b5a-8782-e2bd99fbf45a.png)
 ![Manager](https://user-images.githubusercontent.com/76425286/172103689-be70c9c3-bb47-4d38-9880-d5b1f1397803.png)
+
